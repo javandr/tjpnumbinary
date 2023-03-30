@@ -18,7 +18,7 @@ def generate_sha256_key(text):
 
     return sha256_key
 
-# Функция, которая переводит текст в японский двоичный код
+# Функция, которая переводит текст в японский двоичный код:
 def text_to_japanese_binary(text):
     # Convert text to bytes
     text_bytes = text.encode('utf-8')
