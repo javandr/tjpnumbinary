@@ -66,6 +66,7 @@ def decrypt_message(key, ciphertext_str):
 
     return plaintext
 
+
 # Создание графического интерфейса с помощью tkinter
 def gui():
     # Функция, которая обрабатывает событие нажатия на кнопку "Encrypt"
